@@ -15,6 +15,12 @@ I have a strong passion for programming and game development, constantly strivin
 <br />
 
 #
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bevy,unity,c,csharp,rust,vscode," />
+  </a>
+</p>
           
 ### 📊 Stats
 
