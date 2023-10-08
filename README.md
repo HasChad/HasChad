@@ -7,15 +7,17 @@ I have a strong passion for programming and game development, constantly strivin
 #
 
 ### 🧰 Languages and Tools
+<!--https://github.com/tandpfun/skill-icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,rust,vscode,git,github,bevy,unity,godot,linux" />
   </a>
 </p>
-          
-### 📊 Stats
 
-![HasChad's GitHub stats](https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=gruvbox)
+
+### 📊 Stats
+<!--https://github.com/anuraghazra/github-readme-stats-->
+![HasChad's GitHub stats](https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=codeSTACKr)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
