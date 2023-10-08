@@ -19,6 +19,4 @@ I have a strong passion for programming and game development, constantly strivin
 <!--https://github.com/anuraghazra/github-readme-stats-->
 ![HasChad's GitHub stats](https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=codeSTACKr)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
 #
