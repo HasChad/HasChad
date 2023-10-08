@@ -46,3 +46,5 @@ https://www.udemy.com/certificate/UC-e77622a7-5ceb-48c9-ba93-9099ea8ac567/
 <h2> 📊 Stats </h2>
 <!--https://github.com/anuraghazra/github-readme-stats-->
 [![HasChad's GitHub stats](https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=codeSTACKr)
+[![HasChad's GitHub stats](https://github-readme-stats.vercel.app/api?username=haschad)](https://github.com/anuraghazra/github-readme-stats)
+
