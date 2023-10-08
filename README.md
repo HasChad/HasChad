@@ -20,7 +20,7 @@ I have a strong passion for programming and game development, constantly strivin
   </a>
 </p>
 
-### Certificates
+### 📜 Certificates
 #### Google Game and Application Academy Graduation
 https://verified.sertifier.com/en/verify/90846790774065/?ref=email
 #### Google - Game Development with Unity
