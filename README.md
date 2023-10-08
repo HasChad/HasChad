@@ -1,12 +1,12 @@
-<h2>🐺 Harun Yahya Akbulut</h2>
+<h1> 🐺 Harun Yahya Akbulut </h1>
 
-### Digital Craftsman (Developer/Artist)
+<h2> Digital Craftsman (Developer/Artist) </h2>
 
 I have a strong passion for programming and game development, constantly striving to expand my knowledge by exploring new programming languages and game engines and I have just started learning Godot game engine recently. This pursuit allows me to enhance my skills and gain a comprehensive understanding of diverse approaches to game development. Additionally, I possess a keen interest in drawing and animation, which enables me to create my own sprites whenever I embark on a game development project.
 
 #
 
-<h2>🧰 Languages and Tools</h2>
+<h2> 🧰 Languages and Tools </h2>
 <!--https://github.com/tandpfun/skill-icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@ I have a strong passion for programming and game development, constantly strivin
 
 #
 
-<h2>❓ Currently Learning</h2>
+<h2> ❓ Currently Learning </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,godot" />
@@ -26,19 +26,19 @@ I have a strong passion for programming and game development, constantly strivin
 #
 
 <h2>📜 Certificates</h2>
-#### Google Game and Application Academy Graduation
+<h3> Google Game and Application Academy Graduation</h3>
 https://verified.sertifier.com/en/verify/90846790774065/?ref=email
-#### Google - Game Development with Unity
+<h3> Google - Game Development with Unity </h3>
 https://verified.sertifier.com/en/verify/58201209505035/?ref=email
-#### Google - Application Development with Flutter
+<h3> Google - Application Development with Flutter </h3>
 https://verified.sertifier.com/en/verify/82438465919433/?ref=email
-#### Google - English for Software Developers
+<h3> Google - English for Software Developers </h3>
 https://verified.sertifier.com/en/verify/36234657519671/?ref=email
-#### Google - Entrepreneurship
+<h3> Google - Entrepreneurship </h3>
 https://verified.sertifier.com/en/verify/29546509049912/?ref=email
-#### Coursera - Google Project Management Professional Certificate
+<h3> Coursera - Google Project Management Professional Certificate </h3>
 https://coursera.org/share/893c7058b28f7432c6e043b36617fd8d
-#### Udemy - C Programming Bootcamp - The Complete C Language Course
+<h3> Udemy - C Programming Bootcamp - The Complete C Language Course </h3>
 https://www.udemy.com/certificate/UC-e77622a7-5ceb-48c9-ba93-9099ea8ac567/
 
 #
