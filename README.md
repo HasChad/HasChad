@@ -27,25 +27,6 @@ I have a strong passion for programming and game development, constantly strivin
 
 #
 
-<h2>📜 Certificates</h2>
-
-<h3> Google Game and Application Academy Graduation</h3>
-https://verified.sertifier.com/en/verify/90846790774065/?ref=email
-<h3> Google - Game Development with Unity </h3>
-https://verified.sertifier.com/en/verify/58201209505035/?ref=email
-<h3> Google - Application Development with Flutter </h3>
-https://verified.sertifier.com/en/verify/82438465919433/?ref=email
-<h3> Google - English for Software Developers </h3>
-https://verified.sertifier.com/en/verify/36234657519671/?ref=email
-<h3> Google - Entrepreneurship </h3>
-https://verified.sertifier.com/en/verify/29546509049912/?ref=email
-<h3> Coursera - Google Project Management Professional Certificate </h3>
-https://coursera.org/share/893c7058b28f7432c6e043b36617fd8d
-<h3> Udemy - C Programming Bootcamp - The Complete C Language Course </h3>
-https://www.udemy.com/certificate/UC-e77622a7-5ceb-48c9-ba93-9099ea8ac567/
-
-#
-
 <h2> 📊 Stats </h2>
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
