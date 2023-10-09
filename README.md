@@ -11,7 +11,7 @@ I have a strong passion for programming and game development, constantly strivin
 <!--https://github.com/tandpfun/skill-icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,rust,vscode,git,github,bevy,unity,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cs,rust,vscode,git,github,bevy,unity,dart,flutter,linux" />
   </a>
 </p>
 
