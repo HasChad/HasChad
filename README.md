@@ -9,7 +9,7 @@ I have a strong passion for programming and game development, constantly strivin
 <!--https://github.com/tandpfun/skill-icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,rust,vscode,git,github,bevy,unity,dart,flutter,linux" />
+    <img src="https://skillicons.dev/icons?i=c, cs, rust, vscode, git, github, bevy, unity, dart, flutter, linux" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@ I have a strong passion for programming and game development, constantly strivin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,godot,blender" />
+    <img src="https://skillicons.dev/icons?i=godot, blender, kotlin, androidstudio" />
   </a>
 </p>
 
