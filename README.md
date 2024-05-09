@@ -17,7 +17,7 @@ I have a strong passion for programming and game development, constantly strivin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,blender,kotlin,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=godot,blender" />
   </a>
 </p>
 
