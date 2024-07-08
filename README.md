@@ -27,3 +27,7 @@ I have a strong passion for programming and game development, constantly strivin
     ![HasChad's GitHub stats](https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=codeSTACKr&border_color=#D8582C&rank_icon=github)
   </a>
 </p>
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=codeSTACKr&border_color=#D8582C&rank_icon=github" />
+</div>
