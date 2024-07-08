@@ -22,12 +22,5 @@ I have a strong passion for programming and game development, constantly strivin
 </p>
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    ![HasChad's GitHub stats](https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=codeSTACKr&border_color=#D8582C&rank_icon=github)
-  </a>
-</p>
+![HasChad's GitHub stats](https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=codeSTACKr&border_color=#D8582C&rank_icon=github)
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=codeSTACKr&border_color=#D8582C&rank_icon=github" />
-</div>
