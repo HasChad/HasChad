@@ -1,4 +1,4 @@
-<h1> 🐺 Harun Yahya Akbulut </h1>
+<h1> Harun Yahya Akbulut </h1>
 
 <h2> Digital Craftsman (Developer/Artist) </h2>
 
@@ -9,15 +9,7 @@ I have a strong passion for programming and game development, constantly strivin
 <!--https://github.com/tandpfun/skill-icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,rust,git,github,bevy,unity,dart,flutter,vscode,linux" />
-  </a>
-</p>
-
-<h2> ❓ Currently Learning </h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,blender" />
+    <img src="https://skillicons.dev/icons?i=c,cs,rust,git,github,bevy,godot,unity,dart,flutter,vscode,linux,blender" />
   </a>
 </p>
 
