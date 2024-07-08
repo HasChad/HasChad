@@ -22,5 +22,5 @@ I have a strong passion for programming and game development, constantly strivin
 </p>
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
-![HasChad's GitHub stats](https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=codeSTACKr&border_color=#D8582C&rank_icon=github)
+![HasChad's GitHub stats](https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=codeSTACKr&rank_icon=github&border_color=#D8582C)
 
