@@ -15,7 +15,7 @@ I have a strong passion for programming and game development, constantly strivin
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=tokyonight&rank_icon=github&border_color=#D8582C" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=rose_pine&rank_icon=github&border_color=#D8582C" />
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haschad&layout=donut&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haschad&layout=donut&theme=rose_pine" />
 </a> 
