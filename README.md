@@ -2,7 +2,7 @@
 
 <h2> Digital Craftsman (Developer/Artist) </h2>
 
-I have a strong passion for programming and game development, constantly striving to expand my knowledge by exploring new programming languages and game engines. This pursuit allows me to enhance my skills and gain a comprehensive understanding of diverse approaches to game development. Additionally, I possess a keen interest in drawing and animation, which enables me to create my own sprites whenever I embark on a game development project.
+ I love programming and game development, always looking to learn new programming languages and try out different game engines. Each step helps me grow my skills and discover fresh ways to build games. I'm also passionate about drawing and animation, which means I can create my own sprites and animations whenever I start a new project. 
 
 <h2> 🧰 Languages and Tools </h2>
 
