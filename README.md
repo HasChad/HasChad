@@ -18,4 +18,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=haschad&show_icons=true&theme=rose_pine&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&line_height=20"/>
   </a>
+ 
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=haschad&theme=rose-pine&hide_border=true" alt="GitHub Streak" /></a>
 </p>
+
+
