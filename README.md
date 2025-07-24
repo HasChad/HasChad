@@ -2,8 +2,6 @@
 
 <h2> Digital Craftsman (Developer/Artist) </h2>
 
- I love programming and game development, always looking to learn new programming languages and try out different game engines. Each step helps me grow my skills and discover fresh ways to build games. I'm also passionate about drawing and animation, which means I can create my own sprites and animations whenever I start a new project. 
-
 <h2> 🧰 Languages and Tools </h2>
 
 <!--https://github.com/tandpfun/skill-icons-->
