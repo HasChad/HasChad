@@ -7,7 +7,12 @@
 <!--https://github.com/tandpfun/skill-icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,rust,git,github,bevy,godot,unity,dart,flutter,vscode,linux,blender" />
+    <img src="https://skillicons.dev/icons?i=c,cs,rust,zig,git,github,bevy,godot" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,dart,flutter,vscode,linux,blender" />
   </a>
 </p>
 
