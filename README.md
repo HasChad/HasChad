@@ -1,7 +1,5 @@
 <h1> Harun Yahya Akbulut </h1>
 
-<h2> Digital Craftsman (Developer/Artist) </h2>
-
 <h2> 🧰 Languages and Tools </h2>
 
 <!--https://github.com/tandpfun/skill-icons-->
