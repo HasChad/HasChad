@@ -25,7 +25,7 @@ jobs:
         uses: LuciNyan/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=haschad&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+50%25+50%25%2C+%23090707ff+0%25%2C+%23cc0033ff+100%25%29&color=%23ffffffFF&hide=rank
+            dist/github-stats?username=haschad&theme=crt&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avater=true&hide=rank
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
